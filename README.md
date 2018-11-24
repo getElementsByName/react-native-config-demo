@@ -18,3 +18,7 @@ https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html#foreground.t
 
 ### android splash
 http://dudmy.net/android/2017/04/09/improved-loading-screen/
+
+
+### source map
+https://stackoverflow.com/questions/34715106/how-to-add-sourcemap-in-react-native-for-production
