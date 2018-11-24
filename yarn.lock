@@ -3756,10 +3756,10 @@ react-devtools-core@^3.4.0:
     shell-quote "^1.6.1"
     ws "^3.3.1"
 
-react-native-config@^0.11.5:
-  version "0.11.5"
-  resolved "https://registry.yarnpkg.com/react-native-config/-/react-native-config-0.11.5.tgz#516cb7b6ec437c7739236ca075971db3aabdcb95"
-  integrity sha512-u1ScTyJXsCZM8Kt8eVEZZw4vtbWOffwAv1HpMwGRRuerqQC99hTBOhFKGCvxPr6APHqYJO3vQYoad/Cjb5VGWw==
+react-native-config@^0.11.6:
+  version "0.11.6"
+  resolved "https://registry.yarnpkg.com/react-native-config/-/react-native-config-0.11.6.tgz#efe9027be534629a41a4561de50f76f40dabb78a"
+  integrity sha512-7GawMkZ3/w7dL9ah2EEhNRyHnMRtsbgAPPIDFX8ODDfhvTM0CzPL23bF5KrKmx13jjNrd6/scW9iyorEEPnYcQ==
 
 react-native@0.57.4:
   version "0.57.4"
