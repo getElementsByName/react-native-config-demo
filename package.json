@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
-    "bundle.ios": "react-native bundle --platform ios --entry-file index.js --dev false --bundle-output ./ios/main.jsbundle --assets-dest ./ios --sourcemap-output ./sourcemap.js"
+    "bundle.ios.sourcemap": "react-native bundle --platform ios --entry-file index.js --dev false --bundle-output ./sourcemap/dist/main.jsbundle --assets-dest ./sourcemap/dist --sourcemap-output ./sourcemap/dist/main.jsbundle.map --sourcemap-sources-root ./"
   },
   "dependencies": {
     "react": "16.6.0-alpha.8af6728",

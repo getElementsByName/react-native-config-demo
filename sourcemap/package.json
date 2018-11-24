@@ -1,0 +1,9 @@
+{
+  "name": "sourcemap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "source-map": "^0.7.3"
+  }
+}
